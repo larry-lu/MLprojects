@@ -1,0 +1,6 @@
+numpy==1.13.3
+pyspark==2.2.0
+pandas==0.20.3
+nltk==3.2.4
+beautifulsoup4==4.6.0
+scikit_learn==0.19.1
